@@ -1,0 +1,5 @@
+﻿#EXTM3U
+#EXTINF:0,Мульт 1
+http://hlstv.kuz.211.ru/239.211.211.6/stream.m3u8
+#EXTINF:0,Мульт 2
+http://95.188.94.36:1111/udp/225.54.23.91:5000
