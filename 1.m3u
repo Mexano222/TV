@@ -1,16 +1,22 @@
 #EXTM3U
-#EXTINF:-1,Карусель 1
-#EXTGRP:Карусель
+#EXTINF:-1 group-title="Карусель" tvg-logo="Карусель" tvg-name="Карусель",Карусель 1
 http://90.188.129.137:1234/udp/225.54.223.190:5000
-#EXTINF:-1,Карусель 2
-#EXTGRP:Карусель
+#EXTINF:-1 group-title="Карусель" tvg-logo="Карусель" tvg-name="Карусель",Карусель 2
 http://live02-cdn.tv.ti.ru:80/dtv/id342_NBN_SG—Karusel/03/plst.m3u8
-#EXTINF:-1,Карусель 3
-#EXTGRP:Карусель
+#EXTINF:-1 group-title="Карусель" tvg-logo="Карусель" tvg-name="Карусель",Карусель 3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Карусель 4
-#EXTGRP:Карусель
+#EXTINF:-1 group-title="Карусель" tvg-logo="Карусель" tvg-name="Карусель",Карусель 4
 http://cdn.nexttvnet.ru/hlsl/10/Karusel/Karusel_3/index.m3u8
-#EXTINF:-1,Мультиландия 1
-#EXTGRP:Мультиландия
+
+#EXTINF:-1 group-title="Мультиландия" tvg-logo="Мультиландия" tvg-name="Мультиландия",Мультиландия
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+
+#EXTINF:-1 group-title="Мульт" tvg-logo="Мульт" tvg-name="Мульт",Мульт
+http://194.156.166.2:8000/play/a010
+#EXTINF:-1 group-title="Мульт" tvg-logo="Мульт" tvg-name="Мульт HD",Мульт HD
+http://194.156.166.2:8000/play/a03l
+#EXTINF:-1 group-title="Мульт" tvg-logo="Мульт" tvg-name="Мультимузыка",Мультимузыка
+http://194.156.166.2:8000/play/a014
+
+#EXTINF:-1 group-title="Рыжий" tvg-logo="Рыжий" tvg-name="Рыжий",Рыжий
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
