@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="О!" tvg-logo="О!" tvg-name="О!",О!
+http://50.7.120.165:8081/o!/index.m3u8?wmsAuthSign=4ced67572dd13ca1a60cdf620ba90218-1611535345-671i402i501i671
+
 #EXTINF:-1 group-title="Карусель" tvg-logo="Карусель" tvg-name="Карусель",Карусель 1
 http://90.188.129.137:1234/udp/225.54.223.190:5000
 #EXTINF:-1 group-title="Карусель" tvg-logo="Карусель" tvg-name="Карусель",Карусель 2
