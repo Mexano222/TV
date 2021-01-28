@@ -1,27 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="О!" tvg-logo="О!" tvg-name="О!",О!
-http://50.7.120.165:8081/o!/index.m3u8?wmsAuthSign=da5fe06664660f039088cebc9c0e6cc2-1611600986-671i402i501i671
+#EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/О!.png" tvg-name="О!",О!
+http://194.156.166.2:8000/play/a012
 
-#EXTINF:-1 group-title="Карусель" tvg-logo="Карусель" tvg-name="Карусель",Карусель 1
-http://90.188.129.137:1234/udp/225.54.223.190:5000
-#EXTINF:-1 group-title="Карусель" tvg-logo="Карусель" tvg-name="Карусель",Карусель 2
-http://live02-cdn.tv.ti.ru:80/dtv/id342_NBN_SG—Karusel/03/plst.m3u8
-#EXTINF:-1 group-title="Карусель" tvg-logo="Карусель" tvg-name="Карусель",Карусель 3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Карусель" tvg-logo="Карусель" tvg-name="Карусель",Карусель 4
+#EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Карусель.png" tvg-name="Карусель",Карусель 1
 http://cdn.nexttvnet.ru/hlsl/10/Karusel/Karusel_3/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Карусель.png" tvg-name="Карусель",Карусель 2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 
-#EXTINF:-1 group-title="Мультиландия" tvg-logo="Мультиландия" tvg-name="Мультиландия",Мультиландия
+#EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Мультиландия.png" tvg-name="Мультиландия",Мультиландия
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 
-#EXTINF:-1 group-title="Мульт" tvg-logo="Мульт" tvg-name="Мульт",Мульт
+#EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Мульт.png" tvg-name="Мульт",Мульт
 http://194.156.166.2:8000/play/a010
-#EXTINF:-1 group-title="Мульт" tvg-logo="Мульт" tvg-name="Мульт HD",Мульт HD
+#EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Мульт HD.png" tvg-name="Мульт HD",Мульт HD
 http://194.156.166.2:8000/play/a03l
-#EXTINF:-1 group-title="Мульт" tvg-logo="Мульт" tvg-name="Мультимузыка",Мультимузыка
+#EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Мультимузыка.png" tvg-name="Мультимузыка",Мультимузыка
 http://194.156.166.2:8000/play/a014
 
-#EXTINF:-1 group-title="Рыжий" tvg-logo="Рыжий" tvg-name="Рыжий",Рыжий
+#EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Рыжий.png" tvg-name="Рыжий",Рыжий
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
-#EXTINF:-1 group-title="Кино",VIP Megahit HD
-http://188.35.9.11:2016
+
+#EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Ani.png" tvg-name="Ani",Ani
+http://194.156.166.2:8000/play/a013
