@@ -1,11 +1,10 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/О!.png" tvg-name="О!",О!
 http://194.156.166.2:8000/play/a012
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Карусель.png" tvg-name="Карусель",Карусель 1
 http://cdn.nexttvnet.ru/hlsl/10/Karusel/Karusel_3/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Карусель.png" tvg-name="Карусель",Карусель 2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 
 #EXTINF:-1 group-title="Детские" tvg-logo="https://raw.githubusercontent.com/Mexano222/TV/master/Мультиландия.png" tvg-name="Мультиландия",Мультиландия
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
